@@ -9,14 +9,14 @@ La calculadora de máscara de subred IP permite realizar cálculos de red de sub
 Siga los siguientes pasos para la instalación y ejecución
 
 ```
-git clone https://github.com/NateraaaTN/Subnet-Calculator-Cplusplus/
+git clone https://github.com/NateraaaTN/IPSubnetCalculator/
 cd SpaceInvaders
 ./game.out
 ```
 
 ### Demo ⌨️
 
--| Selección de IP |-
+![image](https://user-images.githubusercontent.com/118772521/215856085-ec5a26d7-a9e8-4ca3-adad-5b37f405cac1.png)
 
 ## Autores ✒️
 * **Alejandro Natera** - *Planteamineto y realización* - [NateraaaTN]([https://github.com/NateraaaTN/])
